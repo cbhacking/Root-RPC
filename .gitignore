@@ -5,6 +5,7 @@ obj/
 Debug/
 Release/
 .vs/
+ipch/
 Generated Files/
 *.sdf
 *.suo

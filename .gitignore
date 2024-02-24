@@ -1,0 +1,12 @@
+ARM/
+x86/
+Bin/
+obj/
+Debug/
+Release/
+.vs/
+Generated Files/
+*.sdf
+*.suo
+*.swp
+

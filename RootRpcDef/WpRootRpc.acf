@@ -1,0 +1,8 @@
+//file: WpRootRpc.acf
+[
+	strict_context_handle,
+    implicit_handle (handle_t WpRootRpc_IfHandle)
+] 
+interface WpRootRpc
+{
+}
